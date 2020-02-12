@@ -1,4 +1,7 @@
-  */
+  
+ package matriz;
+import java.util.Scanner;
+public class matriz {
     public static void main(String[] args) {
         Scanner entra=new Scanner(System.in);
         System.out.println("Humano!! cuantas filas va a tener tu inche matriz");
